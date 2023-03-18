@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import Contacts
 
 @main
 struct balangirApp: App {
